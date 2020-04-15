@@ -10,8 +10,20 @@ Fork this repo and customize it for your needs!  This is meant to be a starting 
 
 Most "machine setup" type repos discourage forking and provide other customization options.  The design philosophy for this repo is the opposite.  Fork it and make it your own.
 
+## How to provision a Mac from scratch
+
+* Mac setup
+* Chrome
+* iTerm
+* bash_profile
+* Vim
+* Dev basics (Homebrew, git)
+* Spark
+* Python
+* Go
+
 ## Project goals
 
-* Single command to make a Janus-like distribution
-* Single command to make a spf-13-vim distribution
+* Minimal commands to get a decent development environment setup
+* Code with lots of comments so it's easy to understand what every line does
 

@@ -1,6 +1,6 @@
 # Vim
 
-cali helps you build a custom Vim setup.  It's not a full blown Vim distribution like Janus or spf-13.  cali is much more lightweight.
+cali helps you build a custom Vim setup.  It's not a full blown Vim distribution like Janus or spf-13 (it's much more lightweight).
 
 Hardcore Vim users hate Vim distributions, [see here](https://news.ycombinator.com/item?id=4637100) [and here](https://www.reddit.com/r/vim/comments/bfyg3p/what_do_you_think_about_these_vim_distribution_on/).
 
