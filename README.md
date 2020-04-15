@@ -12,7 +12,7 @@ Most "machine setup" type repos discourage forking and provide other customizati
 
 ## How to provision a Mac from scratch
 
-* Mac setup
+* [Mac setup](https://github.com/MrPowers/cali/blob/master/guides/mac.md)
 * Chrome
 * iTerm
 * bash_profile
