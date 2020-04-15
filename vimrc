@@ -15,15 +15,9 @@ autocmd FileType go setlocal noexpandtab tabstop=4 shiftwidth=4 softtabstop=4
 " option is needed for NerdCommenter to work
 filetype plugin on
 
-" Can delete this if the other approach works better
-" Backup and swap files
-" From Janus https://github.com/carlhuda/janus/blob/master/janus/vim/core/before/plugin/settings.vim
-" set backupdir^=~/.vim/_backup//    " where to put backup files.
-" set directory^=~/.vim/_temp//      " where to put swap files.
-
 " From StackOverflow https://stackoverflow.com/a/4824781/1125159
-set backupdir=$TEMPDIR//
-set directory=$TEMPDIR//
+set backupdir=$TMPDIR//
+set directory=$TMPDIR//
 
 " statusline
 " From Janus https://github.com/carlhuda/janus/blob/master/janus/vim/core/before/plugin/statusline.vim
