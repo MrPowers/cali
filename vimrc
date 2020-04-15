@@ -1,8 +1,11 @@
 " Visual settings
-set guicursor+=a:blinkon0
-set lines=35
-set columns=120
+set lines=41
+set columns=130
 set guifont=Menlo\ Regular:h18
+" add line number
+set number
+" turn blinking cursor off
+set guicursor+=a:blinkon0
 
 " This sets the tab settings, but only for Python
 " https://stackoverflow.com/a/12134557/1125159
@@ -31,4 +34,9 @@ if has("statusline") && !&cp
   set statusline+=Buf:#%n
   set statusline+=[%b][0x%B]
 endif
+
+
+
+
+
 
