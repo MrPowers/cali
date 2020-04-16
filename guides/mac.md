@@ -27,3 +27,5 @@ Remove write access to the Desktop, so you're not tempted to add files there and
 chmod -w ~/Desktop/
 ```
 
+Remap Caps Lock to Control.  Go to Settings => Keyboard => Modifier Keys.
+

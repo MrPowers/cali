@@ -13,14 +13,19 @@ Most "machine setup" type repos discourage forking and provide other customizati
 ## How to provision a Mac from scratch
 
 * [Mac setup](https://github.com/MrPowers/cali/blob/master/guides/mac.md)
-* Chrome
-* iTerm
+* [Chrome](https://github.com/MrPowers/cali/blob/master/guides/chrome.md)
+* [Dev basics (Homebrew, git)](https://github.com/MrPowers/cali/blob/master/guides/dev_basics.md)
+* [iTerm](https://github.com/MrPowers/cali/blob/master/guides/iterm.md)
 * bash_profile
 * Vim
-* Dev basics (Homebrew, git)
 * Spark
 * Python
 * Go
+* IntelliJ
+
+## Command line function you can access
+
+
 
 ## Project goals
 
