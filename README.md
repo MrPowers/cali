@@ -16,14 +16,15 @@ Most "machine setup" type repos discourage forking and provide other customizati
 * [Chrome](https://github.com/MrPowers/cali/blob/master/guides/chrome.md)
 * [Dev basics (Homebrew, git)](https://github.com/MrPowers/cali/blob/master/guides/dev_basics.md)
 * [iTerm](https://github.com/MrPowers/cali/blob/master/guides/iterm.md)
-* bash_profile
+* [Python](https://github.com/MrPowers/cali/blob/master/guides/python.md)
+* [Go](https://github.com/MrPowers/cali/blob/master/guides/go.md)
 * Vim
-* Spark
-* Python
-* Go
+* Scala / SBT / Spark
 * IntelliJ
+* AWS CLI
+* bash_profile
 
-## Command line function you can access
+## Custom executables
 
 
 

@@ -4,7 +4,7 @@ Install with `brew cask install iterm2`.
 
 [This setup guide](https://sourabhbajaj.com/mac-setup/iTerm/) is probably better.
 
-Preferences => Terminal => click Silence Bell in the Notifications section.
+Preferences => Profiles => Terminal => click Silence Bell in the Notifications section.
 
 Color presets => Light Background.  Manually set the background color to #e5e2cc.
 
@@ -12,7 +12,7 @@ Set text to 18pt font.
 
 Setup option + arrow keys to skip words (like other editors).
 
-Open the menu from Preferences => Keys => + icon:
+Open the menu from Preferences => Keys => +:
 
 * Keyboard shortcut: Option + Left
 * Action: Send Escape Sequence
