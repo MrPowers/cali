@@ -18,11 +18,13 @@ Most "machine setup" type repos discourage forking and provide other customizati
 * [iTerm](https://github.com/MrPowers/cali/blob/master/guides/iterm.md)
 * [Python](https://github.com/MrPowers/cali/blob/master/guides/python.md)
 * [Go](https://github.com/MrPowers/cali/blob/master/guides/go.md)
-* Vim
+* [Vim](https://github.com/MrPowers/cali/blob/master/guides/vim.md)
 * Scala / SBT / Spark
 * IntelliJ
 * AWS CLI
 * bash_profile
+* NPM
+* Serverless
 
 ## Custom executables
 
