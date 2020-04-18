@@ -15,6 +15,10 @@ autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
 " https://gist.github.com/joshuarubin/03badc5775848289ddc4#file-vimrc-L54
 autocmd FileType go setlocal noexpandtab tabstop=4 shiftwidth=4 softtabstop=4
 
+" ruby settings
+" adapted from this gist https://gist.github.com/n8henrie/3e251bfe9ac9d5ce7421
+autocmd FileType ruby setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2
+
 " option is needed for NerdCommenter to work
 filetype plugin on
 
@@ -22,21 +26,7 @@ filetype plugin on
 set backupdir=$TMPDIR//
 set directory=$TMPDIR//
 
-" statusline
-" From Janus https://github.com/carlhuda/janus/blob/master/janus/vim/core/before/plugin/statusline.vim
-if has("statusline") && !&cp
-  set laststatus=2  " always show the status bar
-
-  " Start the status line
-  set statusline=%f\ %m\ %r
-  set statusline+=Line:%l/%L[%p%%]
-  set statusline+=Col:%v
-  set statusline+=Buf:#%n
-  set statusline+=[%b][0x%B]
-endif
-
-
-
-
-
+" Automagically indent stuff
+" From StackOverflow https://superuser.com/questions/99741/how-to-add-a-new-line-with-the-same-indentation
+set autoindent
 
