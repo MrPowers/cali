@@ -22,6 +22,10 @@ autocmd FileType ruby setlocal expandtab tabstop=2 shiftwidth=2 softtabstop=2
 " option is needed for NerdCommenter to work
 filetype plugin on
 
+" NerdTree customizations
+" Shows the hidden files
+let NERDTreeShowHidden=1
+
 " From StackOverflow https://stackoverflow.com/a/4824781/1125159
 set backupdir=$TMPDIR//
 set directory=$TMPDIR//
