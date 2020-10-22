@@ -15,7 +15,7 @@ Understanding the details of your machine setup helps you debug issues.  This gu
 * [Ruby](https://github.com/MrPowers/cali/blob/master/guides/ruby.md)
 * [Go](https://github.com/MrPowers/cali/blob/master/guides/go.md)
 * [Vim](https://github.com/MrPowers/cali/blob/master/guides/vim.md)
-* Scala / SBT / Spark
+* [Java / Scala / SBT / Spark](https://github.com/MrPowers/cali/blob/master/guides/java_scala.md)
 * IntelliJ
 * AWS CLI
 * bash_profile
