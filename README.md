@@ -2,9 +2,7 @@
 
 This repo contains scripts to provision your development environment.
 
-It's designed for control freaks that want to understand all the code in their `.bash_profile`, `.vimrc`, and emacs config files.
-
-Understanding the details of your machine setup helps you debug issues.  This guide will remind you how to get new machines setup quickly.
+Understanding the details of your machine setup helps you debug issues.  This guide will remind you how to get new machines setup quickly.  It's not meant to be a single command setup.  It's better for you to go through the commands one-by-one, so you can customize your machine accordingly.
 
 ## How to provision a Mac from scratch
 

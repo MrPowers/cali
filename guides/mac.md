@@ -1,6 +1,8 @@
 # Mac Setup
 
-Set trackpad sensitivity to max.  Enable touch click.
+The default shell has been changed from Bash to ZSH as of macOS Catalina.  All commands in this guide use the `~/.zshrc` file instead of the `~/.bash_profile`.
+
+Set trackpad sensitivity to max.  Enable touch click.  These are in System Preferences => Trackpad.
 
 Remove all icons from your dock (you can add back the ones you want later).
 
