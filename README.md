@@ -2,13 +2,13 @@
 
 This repo contains scripts to provision your development environment.
 
-Understanding the details of your machine setup helps you debug issues.  This guide will remind you how to get new machines setup quickly.  It's not meant to be a single command setup.  It's better for you to go through the commands one-by-one, so you can customize your machine accordingly.
+Understanding the details of your machine setup helps you debug issues.  This guide will remind you how to get new machines setup quickly.  It's not meant to be a single command setup.  It's better for you to go through the commands one-by-one, so you can customize your machine and fully understand how it's been setup.
 
 ## How to provision a Mac from scratch
 
 * [Mac setup](https://github.com/MrPowers/cali/blob/master/guides/mac.md)
 * [Chrome](https://github.com/MrPowers/cali/blob/master/guides/chrome.md)
-* Install Visual Studio Code for text editing
+* [Visual Studio Code](https://github.com/MrPowers/cali/blob/master/guides/vscode.md)
 * [Homebrew, Git, GitHub](https://github.com/MrPowers/cali/blob/master/guides/homebrew_git_github.md)
 * [iTerm](https://github.com/MrPowers/cali/blob/master/guides/iterm.md)
 * [Python](https://github.com/MrPowers/cali/blob/master/guides/python.md)
