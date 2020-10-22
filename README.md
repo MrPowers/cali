@@ -10,6 +10,7 @@ Understanding the details of your machine setup helps you debug issues.  This gu
 
 * [Mac setup](https://github.com/MrPowers/cali/blob/master/guides/mac.md)
 * [Chrome](https://github.com/MrPowers/cali/blob/master/guides/chrome.md)
+* Install Visual Studio Code for text editing
 * [Homebrew, Git, GitHub](https://github.com/MrPowers/cali/blob/master/guides/homebrew_git_github.md)
 * [iTerm](https://github.com/MrPowers/cali/blob/master/guides/iterm.md)
 * [Python](https://github.com/MrPowers/cali/blob/master/guides/python.md)
