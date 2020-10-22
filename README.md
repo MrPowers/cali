@@ -10,7 +10,7 @@ Understanding the details of your machine setup helps you debug issues.  This gu
 
 * [Mac setup](https://github.com/MrPowers/cali/blob/master/guides/mac.md)
 * [Chrome](https://github.com/MrPowers/cali/blob/master/guides/chrome.md)
-* [Dev basics (Homebrew, git)](https://github.com/MrPowers/cali/blob/master/guides/dev_basics.md)
+* [Homebrew, Git, GitHub](https://github.com/MrPowers/cali/blob/master/guides/homebrew_git_github.md)
 * [iTerm](https://github.com/MrPowers/cali/blob/master/guides/iterm.md)
 * [Python](https://github.com/MrPowers/cali/blob/master/guides/python.md)
 * [Ruby](https://github.com/MrPowers/cali/blob/master/guides/ruby.md)
