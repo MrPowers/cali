@@ -42,3 +42,9 @@ Install SBT with `brew install sbt`.
 Clone the spark-daria repo with `git clone git@github.com:MrPowers/spark-daria.git`.
 
 `cd` into the `spark-daria` project directory and run `sbt test` to make sure your environment is properly setup.  The command should install Scala, Spark, all the other project dependencies, and successfully run all the tests.
+
+## Additional Optional setup
+
+Run `brew install scala` so you can easily open up a Scala REPL for experimental development.
+
+You can also [download Spark from the website](https://spark.apache.org/downloads.html) so you have another way to execute Spark code on your local machine.  This isn't necessary.  We've already seen how to run the test suite for an entire Spark application with SBT (cloning spark-daria and then running `sbt test`).

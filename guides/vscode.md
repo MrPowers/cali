@@ -7,3 +7,7 @@ You'll want to be able to open the VS Code editor from the Terminal with the `co
 ```
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 ```
+
+TODO
+* default text size
+* enable vim codebindings

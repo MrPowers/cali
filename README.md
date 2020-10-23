@@ -7,6 +7,7 @@ Understanding the details of your machine setup helps you debug issues.  This gu
 ## How to provision a Mac from scratch
 
 * [Mac setup](https://github.com/MrPowers/cali/blob/master/guides/mac.md)
+* [Terminal](https://github.com/MrPowers/cali/blob/master/guides/terminal.md)
 * [Chrome](https://github.com/MrPowers/cali/blob/master/guides/chrome.md)
 * [Visual Studio Code](https://github.com/MrPowers/cali/blob/master/guides/vscode.md)
 * [Homebrew, Git, GitHub](https://github.com/MrPowers/cali/blob/master/guides/homebrew_git_github.md)
@@ -17,6 +18,7 @@ Understanding the details of your machine setup helps you debug issues.  This gu
 * [Vim](https://github.com/MrPowers/cali/blob/master/guides/vim.md)
 * [Java / Scala / SBT / Spark](https://github.com/MrPowers/cali/blob/master/guides/java_scala.md)
 * IntelliJ
+* Maven publishing / GPG
 * AWS CLI
 * bash_profile
 * NPM
