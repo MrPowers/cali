@@ -4,6 +4,8 @@ This repo contains instruction guides to provision your machine for a good devel
 
 Your machine configuration should make you productive.  It should also be reasonably easy to run.  You'll have to setup a lot of machines and the configurations will continuously evolve as your tools, software versions, and tech stacks progress.  It's good to stay on top of your machine setup and have detailed notes so you can replicate your ideal setup on a new machine.
 
+Most settings in this guide are updated in the preferences section of the respective application.  You can open the preferences with `Command + ,`
+
 ## Mac Setup
 
 Set trackpad sensitivity to the highest sensitivity you can handle (I set it to max).  Enable touch click.  These are in System Preferences => Trackpad.
@@ -43,16 +45,19 @@ The default shell has been changed from Bash to ZSH as of macOS Catalina.  All c
 
 In the Terminal > Profiles > Text tab, set the color theme to Novel and the font to 16 pt.  You need to click the "Default" button in the bottom left to save these settings.
 
+To open the window in full screen mode, go to Window => Window Size => set rows & columns to 1,000.
+
 [prezto](https://github.com/sorin-ionescu/prezto) provides great default ZSH setups.
 
-[fig](https://fig.io/) another great tool that gives you a ton of great command line functionality out of the box.
-
+[fig](https://fig.io/) gives you amazing command line functionality out of the box.
 
 # Chrome setup
 
 Install [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en).
 
 ## Text Editors
+
+If you only develop in a single language and environment, you may only need one text editor.  If you develop in multiple languages, it can be useful to have multiple text editors.  Certain editors are quite good for particular languages (e.g. IntelliJ is great for Scala).
 
 ### VS Code
 
@@ -68,14 +73,21 @@ TODO
 * default text size
 * enable vim codebindings
 
-
 ### IntelliJ
 
+Make the font bigger.  Preferences => Editor => Font => 16
 
+Install the IdeaVim plugin.  Preferences => Plugins => IdeaVim
 
 ### PyCharm
 
+Make the font bigger.  Preferences => Editor => Font => 16
 
+Install the IdeaVim plugin.  Preferences => Plugins => IdeaVim
+
+### Vim
+
+TODO: Figure out the best Vim plugin manager and how to install all the [Janus plugins](https://github.com/carlhuda/janus).
 
 ## Homebrew, Git, GitHub
 
@@ -100,15 +112,15 @@ git config --global user.name "Your Name"
 
 ### conda
 
-
+Install conda following [these instructions](https://conda.io/projects/conda/en/latest/user-guide/install/index.html.
 
 ### poetry
 
-
+Install poetry following [these instructions](https://python-poetry.org/docs/).
 
 ### JupyterLab Desktop
 
-
+Go to the [GitHub repo](https://github.com/jupyterlab/jupyterlab-desktop) and install the JupyterLab desktop application.  Much better to develop notebooks in an application instead of browser windows.
 
 ## Java / Scala / SBT / Spark
 
@@ -160,6 +172,12 @@ Clone the spark-daria repo with `git clone git@github.com:MrPowers/spark-daria.g
 Run `brew install scala` so you can easily open up a Scala REPL for experimental development.
 
 You can also [download Spark from the website](https://spark.apache.org/downloads.html) so you have another way to execute Spark code on your local machine.  This isn't necessary.  We've already seen how to run the test suite for an entire Spark application with SBT (cloning spark-daria and then running `sbt test`). 
+
+## Other developer tools
+
+* `brew install jq`
+* `brew install tree`
+* `brew install cloc`
 
 ## Legacy guides
 
